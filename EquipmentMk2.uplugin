@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.3",
+	"VersionName": "1.0.4",
 	"FriendlyName": "EquipmentMk2",
 	"Description": "Mk2 upgrades for (most) equipment",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "1.0.3",
+	"SemVersion": "1.0.4",
 	"GameVersion": ">=365306"
 }
